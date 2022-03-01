@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace triumphant., or, A congratulatory poem To celebrate the unspeakable benefits and blessings of peace, together with some grateful reflections upon King William the III.  His excellent Majesties first coming to the crown, as a happy instrument in the hand of divine providence, to settle the affairs of the nation, and with the hazard of his own life to deliver us from near approaching ruine / written by Tho. Cheeseman.</title>
+            <author>Cheesman, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08740</idno>
+            <idno type="STC">Wing C3775</idno>
+            <idno type="STC">ESTC R171303</idno>
+            <idno type="EEBO-CITATION">64551086</idno>
+            <idno type="OCLC">ocm 64551086</idno>
+            <idno type="VID">184461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184461)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace triumphant., or, A congratulatory poem To celebrate the unspeakable benefits and blessings of peace, together with some grateful reflections upon King William the III.  His excellent Majesties first coming to the crown, as a happy instrument in the hand of divine providence, to settle the affairs of the nation, and with the hazard of his own life to deliver us from near approaching ruine / written by Tho. Cheeseman.</title>
+                  <author>Cheesman, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst, at the Bible and Three Crowns in Cheap-Side,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184461:1" rendition="simple:additions"/>
+            <head>PEACE TRIUMPHANT. OR, A Congratulatory Poem. To Celebrate the Unſpeakable Benefits and Bleſſings of <hi>Peace,</hi> to<g ref="char:EOLhyphen"/>gether with ſome Grateful Reflections upon King <hi>William</hi> the III. His Excellent Ma<g ref="char:EOLhyphen"/>jeſties firſt coming to the Crown, as a happy Inſtrument in the Hand of Divine Providence, to Settle the Affairs of the Nation, and with the Hazard of his own Life to deliver us from near Approaching Ruine.</head>
+            <head type="sub">Written by <hi>Tho. Cheeſeman,</hi> A. M. And formerly of <hi>Pemb. Coll. Oxon.</hi> Preacher of the Goſpel now in <hi>Eaſt-Ilſly, Bark-ſhire.</hi>
+            </head>
+            <lg>
+               <l>GIve me a Quill, ſnatch't from the Golden Wing</l>
+               <l>Of ſome bright Seraphim, that I may Sing</l>
+               <l>Loud Praiſes to the God of <hi>Iſrael,</hi>
+               </l>
+               <l>Who doth in Heavens Starry Palace dwell:</l>
+               <l>Let the whole World his glorious Works declare,</l>
+               <l>And all adore his Majeſty with fear.</l>
+               <l>The Seas proud Roaring Waves are in his Hand,</l>
+               <l>He chains them up with Fetters made of Sand:</l>
+               <l>The Sun that great reſplendent King of Day,</l>
+               <l>Compar'd with him, is but a lump of Clay;</l>
+               <l>Yea if a thouſand Suns in one could joyn</l>
+               <l>His dazling brightneſs would them all out-ſhine.</l>
+               <l>Hail, Lightning, Thunder, Winds that fiercely blow,</l>
+               <l>At his commanding Word both come and go;</l>
+               <l>The Nations of the Earth are in his Eyes</l>
+               <l>But as a poor deſpiſed ſwarm of Flies.</l>
+               <l>Their murmuring Tumults he can quickly ſtill,</l>
+               <l>And cruſh the ſtouteſt that ſhall croſs his Will:</l>
+               <l>If he but hide his Face, the People mourn,</l>
+               <l>But when he Smiles, their Comforts all return:</l>
+               <l>The raging Storms of War are over blown,</l>
+               <l>And <hi>Peace</hi> appears Triumphant in her Throne:</l>
+               <l>Her Head with Olive-boughs is fairly crown'd,</l>
+               <l>Chaſte Turtles flutter all about her round:</l>
+               <l>Her Garments made of Rain-bows to behold,</l>
+               <l>With greater Luſtre ſhine than Cloth of Gold;</l>
+               <l>Her Breath perfumes the Air, where e're ſhe comes,</l>
+               <l>Like coſtly Spices, or <hi>Arabian</hi> Gumms;</l>
+               <l>Her Eyes reſemble Stars, that ſtill diſpence,</l>
+               <l>Heart-chearing Beams, and precious influence;</l>
+               <l>Her Lips with Balſam and rich Nectar flow,</l>
+               <l>Under her Feet ſweet bluſhing Roſes grow,</l>
+               <l>And painted Violets lift up their Heads,</l>
+               <l>As newly ſtarting from their fragrant Beds:</l>
+               <l>Mirth, Joy and Gladneſs wait upon this Queen,</l>
+               <l>And youthful Pleaſure cloathed all in Green;</l>
+               <l>An Adamantine Chain is in her Hand,</l>
+               <l>Binding the Hearts of Men at her Command:</l>
+               <l>Her charming Beauty ſweetly does intice,</l>
+               <l>Her ſmile alone creates a Paradice.</l>
+               <l>Where ere ſhe looks abroad or turns her Face,</l>
+               <l>Wrath and Contention flie away apace:</l>
+               <l>Weapons no more with purple Blood are ſtain'd,</l>
+               <l>Heart-conquering Love the Victory has gain'd;</l>
+               <l>No quarrels now, but harmleſs, free from Crime,</l>
+               <l>Such as may happen in the Summer-time;</l>
+               <l>When murmuring Streams of Water ſeem to chide,</l>
+               <l>To find our Fields dreſs'd up with too much Pride,</l>
+               <l>Or Flowers contend which ſhall the ſweeteſt ſmell,</l>
+               <l>Or Birds in Muſick, which can moſt excell:</l>
+               <l>Muſick that Lulls the ſtubborn Winds aſleep,</l>
+               <l>And gently ſtrokes them till they ſilence keep.</l>
+               <l>The Stratagems of War are changed quite</l>
+               <l>Into Devices uſed for Delight,</l>
+               <l>To cheat the Feather'd Fowl, or Scalely Fiſh,</l>
+               <l>Which furniſh Riot with ſome coſtly Diſh:</l>
+               <l>And look what Skill the beſt Commanders ſhow,</l>
+               <l>Ordering their Men, when they to Battle go;</l>
+               <l>The ſame muſt Cooks now uſe with greater Care,</l>
+               <l>Setting each Meſs in Order to prepare</l>
+               <l>A Dinner for nice Gallants at ſome Feaſt,</l>
+               <l>So as to pleaſe the fancy of each Gueſt.</l>
+               <l>No Trumpets ſound, no hollow rattling Drum,</l>
+               <l>Is heard to ſtrike the neighbouring Eccho's dumb:</l>
+               <l>Nor thundring Canons groan, that ſo much Death</l>
+               <l>Should be accompliſht by their fatal Breath;</l>
+               <l>Bright Swords to Plow-ſhares turn'd, can only wound</l>
+               <l>By making Furrows in the fruitful Ground.</l>
+               <l>Armour hangs Ruſty, by the naked Walls,</l>
+               <l>None for his idle Pike or Musket calls:</l>
+               <l>But rather take ſuch Inſtruments in Hand</l>
+               <l>As ſerve to cut the Corn, or Till the Land:</l>
+               <l>No Warlike Troops the Traveller moleſt,</l>
+               <l>But Shepherds in the Shade lie down to reſt</l>
+               <l>Their weary Limbs, and there in <hi>Safety</hi> ſleep,</l>
+               <l>Or when they Watch their bleating Flocks of <hi>Sheep</hi>
+               </l>
+               <l>They ſound their <hi>Oaten-Pipes,</hi> and loudly ſing,</l>
+               <l>Till winding Vallies with their Eccho ring:</l>
+               <l>The Trades-man in his Shop may live at Eaſe,</l>
+               <l>And Ships ſecurely Sail upon the Seas;</l>
+               <l>No ſad Alarm, or diſturbing Noiſe</l>
+               <l>Of War-like Arms, ſhall ſpoil the Schollars Joys;</l>
+               <l>But in purſuit of Learning may go on,</l>
+               <l>Till he can climb the Top of <hi>Helicon.</hi>
+               </l>
+               <l>
+                  <hi>Orpheus,</hi> they ſay, in Muſick had ſuch Skill,</l>
+               <l>That he could Tame fierce Tygers at his Will;</l>
+               <l>The Hound would Court the Hare, and Lyons play</l>
+               <l>With tender Lambs, forgetful of their Prey:</l>
+               <l>This witty Fiction does to us declare,</l>
+               <l>What Miracles by <hi>Peace</hi> performed are;</l>
+               <l>By which the hardeſt Hearts are mollifi'd,</l>
+               <l>Wrath reconcil'd, and Malice laid aſide,</l>
+               <l>Oh! that theſe Halcyon Days might always laſt,</l>
+               <l>And no black Cloud our Sun ſhould over-caſt:</l>
+               <l>Let all grow Wiſe before it be too Late,</l>
+               <l>And prize Gods Mercies at a higher Rate;</l>
+               <l>Let Dove-like Meekneſs and Compaſſion Reign,</l>
+               <l>And tender-hearted Charity reſtrain</l>
+               <l>Bitter revengeful Thoughts, let every one</l>
+               <l>Weep for his Brothers Faults, and mend his own.</l>
+               <l>Let Moderation ſad Diviſions heal,</l>
+               <l>And cool the Heat of our miſtaken Zeal;</l>
+               <l>Let none in Oyl and Butter ſteep his Words,</l>
+               <l>While ſpite within is ſharper than drawn Swords;</l>
+               <l>Rather let us in weighty Truths Unite;</l>
+               <l>And not for painted Ceremonies Fight;</l>
+               <l>Let none be lifted up with ſwelling Pride,</l>
+               <l>As if he thought in <hi>Sol</hi>'s bright Coach to Ride;</l>
+               <l>Forgetful of the dark and ſilent Grave</l>
+               <l>Where he e're long a Bed of Duſt muſt have.</l>
+               <l>Let none his Soul for ſhort-liv'd Pleaſures ſell,</l>
+               <l>Such as may coſt him endleſs Pains in Hell;</l>
+               <l>Let Riot no more turn Men in to Swine,</l>
+               <l>Or Envy at his Neighbours Good repine:</l>
+               <l>Nor let the Covetous Worldling any more</l>
+               <l>That Death may prove him Rich, chooſe to live Poor,</l>
+               <l>Let all Repent of ſuch provoking Crimes,</l>
+               <l>'Tis Reformation that muſt mend the Times.</l>
+               <l>So ſhall the Earth bring forth a large Increaſe,</l>
+               <l>And give us Plenty to maintain our <hi>Peace;</hi>
+               </l>
+               <l>Both Hill and Vale, ſhall laugh with ſtore of Corn,</l>
+               <l>And pleaſant Fruits our loaded Trees adorn;</l>
+               <l>While People all with Health and Safety bleſs'd;</l>
+               <l>In the ſoft Boſom of ſweet Concord reſt:</l>
+               <l>The Name of <hi>Peace</hi> makes Muſick, all Rejoice,</l>
+               <l>And wellcome that with one conſenting Voice.</l>
+               <l>Loud Bells proclaim their Joy from Steeples high,</l>
+               <l>And Flaming Bonfires kiſs the Starry Skie:</l>
+               <l>While Conduits flowing with rich ſparkling Wine,</l>
+               <l>Of publick Gladneſs give a coſtly Sign.</l>
+               <pb facs="tcp:184461:2" rendition="simple:additions"/>
+               <l>But as when Morning, not yet fully dreſs'd,</l>
+               <l>Peeps from her Roſie Chamber in the <hi>Eaſt,</hi>
+               </l>
+               <l>Thoſe gliſt'ring Pearls of Dew that hang upon</l>
+               <l>The Blades of Graſs, are melted ſoon and gone;</l>
+               <l>Though for a time they make a goodly ſhow,</l>
+               <l>'Tis thus with all our Comforts here below:</l>
+               <l>The beſt Eſtate on Earth is like a Flower,</l>
+               <l>That flouriſhes and fadeth in an Hour:</l>
+               <l>Then let not preſent Joys too much intice,</l>
+               <l>Or make us fond to build upon the Ice;</l>
+               <l>Nor may ſuch cheating Shadows us allure,</l>
+               <l>As if they were for ever to endure:</l>
+               <l>But let us ſet our Hearts on things above,</l>
+               <l>A Treaſure there is worth our deareſt Love;</l>
+               <l>Where Chriſt, the King of Saints, in Glory Reigns,</l>
+               <l>And for his Church Eternal Reſt remains.</l>
+               <l>Amidſt both Foreign and Domeſtick Foes,</l>
+               <l>Who can but wonder at our ſafe Repoſe?</l>
+               <l>That ſounding Trumpets ſhould no more awake</l>
+               <l>Blood-thirſty War, his Sword in hand to take;</l>
+               <l>But lovely Concord with heart-winning Charms,</l>
+               <l>Doth Silence every where the noiſe of Arms.</l>
+               <l>Next unto God, I boldly may conclude,</l>
+               <l>We owe the Tribute of our Gratitude,</l>
+               <l>For this Tranſcendent Gift, to Him alone,</l>
+               <l>Whom Providence has placed in the Throne.</l>
+               <l>Were I a Poet whoſe rich Fancy ſtood</l>
+               <l>Up to the Chin in the <hi>Castalian</hi> Flood;</l>
+               <l>Great <hi>Caeſar!</hi> had I now an hundred Tongues,</l>
+               <l>A Throat of Braſs, and Adamantine Lungs,</l>
+               <l>Yet could I not your Vertues all rehearſe,</l>
+               <l>Much leſs contain them in this narrow Verſe.</l>
+               <l>Your hatred of Prophaneneſs, flaming Zeal</l>
+               <l>For true Religion; nor may I conceal</l>
+               <l>Your Military Skill, and Courage bold,</l>
+               <l>Venturing through ſhowers of Bullets to uphold</l>
+               <l>The Cauſe of God; your choice Fidelity,</l>
+               <l>Temperance, Juſtice, and ſweet Clemency:</l>
+               <l>Thoſe rare Perfections which divided ſhine</l>
+               <l>In other Men, and make them half Divine,</l>
+               <l>In the fair Temple of your Royal Breaſt,</l>
+               <l>They all con-center, and take up their reſt.</l>
+               <l>That prudent Monarch in whoſe Nuptial Bed,</l>
+               <l>The White Roſe grew united to the Red;</l>
+               <l>Or his Progenitors, which did advance</l>
+               <l>Victorious Enſigns in the Heart of <hi>France,</hi>
+               </l>
+               <l>Never ſuch Honour, nor ſuch Glory wan,</l>
+               <l>As you in managing this War have done.</l>
+               <l>
+                  <hi>England</hi> oppreſſed with a load of Grief,</l>
+               <l>Not knowing where to find the leaſt Relief,</l>
+               <l>Was like a Ship without a Pilot driven</l>
+               <l>By angry Winds and Waves; ſhe cry'd to Heaven</l>
+               <l>And Earth for Succour, at a Time of Need,</l>
+               <l>You heard the cry, and pitying her with ſpeed;</l>
+               <l>You but came over, and you over-came</l>
+               <l>Whole Armies with the Terrour of your Name;</l>
+               <l>You freed this Nation in a happy Hour,</l>
+               <l>From <hi>Popiſh</hi> Slavery, and lawleſs Power.</l>
+               <l>Our great Phyſician, Wiſe and Fortunate,</l>
+               <l>To heal the Bleeding Wounds of Church and State.</l>
+               <l>Moſt of thoſe Conquerors which have ſuch glory,</l>
+               <l>Both in the <hi>Roman</hi> and the <hi>Grecian</hi> Story,</l>
+               <l>Did but for Gold, or vain Ambition Fight,</l>
+               <l>But your juſt Arms do ſtill maintain the Right</l>
+               <l>Of poor oppreſſed People, and the Blood</l>
+               <l>You ſhed, is but the Price of publick Good.</l>
+               <l>What Wonders have been wrought by Sea and Land</l>
+               <l>From time to time by the Almighty's Hand,</l>
+               <l>Your Sacred Perſon to Defend and Save,</l>
+               <l>From going down to an untimely Grave?</l>
+               <l>To ſtrike at Heaven's Darling is but loſt</l>
+               <l>Labour, Your Foes have found it to their coſt:</l>
+               <l>The Lord of Hoſts, great King, will be your Friend,</l>
+               <l>While you his Church, and Goſpel-Truth Defend;</l>
+               <l>The Golden Shield of His Protecting Grace,</l>
+               <l>Will be your ſtrongeſt Guard in every place.</l>
+               <l>Under the Wings of Mercy you ſhall dwell,</l>
+               <l>Secure from all the Plots of <hi>Rome</hi> and Hell:</l>
+               <l>Succeſs ſhall never fail, then may your Hand</l>
+               <l>Exceed the Work perform'd in <hi>Ireland,</hi>
+               </l>
+               <l>Upon that Day when <hi>Boyn</hi>'s fair Silver Floud,</l>
+               <l>Did bluſh for ſhame, as ſtain'd with ſo much Blood;</l>
+               <l>Your Valour then gave ſuch a fatal Blow</l>
+               <l>To ſelf-exalting <hi>France,</hi> as brought her low:</l>
+               <l>Nor does your Matchleſs Bounty come behind</l>
+               <l>The high Heroic Courage of your Mind;</l>
+               <l>Thoſe Baniſh'd ones in <hi>France</hi> by you reſtor'd,</l>
+               <l>How will they bleſs and magnifie the Lord,</l>
+               <l>For proſp'ring your juſt Arms! What Flouds of Tears</l>
+               <l>Have been dry'd up by you? what vexing Cares</l>
+               <l>And heavy loads of Life-conſuming Grief,</l>
+               <l>Your Charitable Hand bringing Relief,</l>
+               <l>Has taken off from many, and ſo turn'd</l>
+               <l>The ſad Complaints of thoſe that long had mourn'd,</l>
+               <l>Into Triumphant Songs of joyful Praiſe,</l>
+               <l>Above the Stars this ſhall your Honour raiſe?</l>
+               <l>But muſt I ſtrive in vain to count thoſe Flowers,</l>
+               <l>That paint the pleaſant Springs perfumed Bowers;</l>
+               <l>Or tell the Fiſh that ſwim in Cryſtal Flouds,</l>
+               <l>Or all the Leaves that grow in ſhady Woods;</l>
+               <l>That were an eaſier Task, than in this place</l>
+               <l>To reckon all your Works of Princely Grace:</l>
+               <l>You are the only Phoenix of this Age,</l>
+               <l>All other Princes coming on the Stage</l>
+               <l>Of Action, match'd with you, but Cyphers are,</l>
+               <l>You the great Figure both in Peace and War.</l>
+               <l>Happy the Royal Womb that brought you forth;</l>
+               <l>Happy the Country where you had your Birth:</l>
+               <l>You to that People bring a greater Joy,</l>
+               <l>And more Defence, than <hi>Hector</hi> did to <hi>Troy.</hi>
+               </l>
+               <l>
+                  <hi>Carthage</hi> no more of <hi>Hanibal</hi> ſhall boaſt,</l>
+               <l>Nor <hi>Italy</hi> of <hi>Marius,</hi> though the Hoſt</l>
+               <l>Of Fierce Invading <hi>Cymbrians</hi> ſlain by him,</l>
+               <l>Made Neighbouring Fields, with Streams of Blood to Swim:</l>
+               <l>Nor may bold <hi>Scipio</hi> with you compare,</l>
+               <l>Whom <hi>Virgil</hi> calls the Thunderbolt of War.</l>
+               <l>Theſe muſt give place to you, your Praiſes ſtill</l>
+               <l>The Silver Trumpet of loud Fame ſhall fill.</l>
+               <l>Without a bleeding Heart none can declare</l>
+               <l>What were the late Calamities of War;</l>
+               <l>
+                  <hi>Alecto</hi> Periwig'd with hiſſing Snakes,</l>
+               <l>And her Two Siſters from the <hi>Stygian</hi> Lakes,</l>
+               <l>Coming abroad, might Dance for Joy to ſee</l>
+               <l>Their Rage exceeded by <hi>French</hi> Cruelty.</l>
+               <l>When Towns in their own Ruines buried lay,</l>
+               <l>And Wealthy Provinces became a Prey</l>
+               <l>To proud, oppreſſing <hi>Lewis,</hi> whoſe deſire</l>
+               <l>Was to fill all with Storms of Blood and Fire;</l>
+               <l>Pale-Viſag'd Death might as in Triumph Ride;</l>
+               <l>Thoſe which the Sword did ſpare, by Famine dy'd;</l>
+               <l>Both Young and Old went to the Grave as faſt</l>
+               <l>As Leaves in Autumn from the Trees are caſt:</l>
+               <l>But Your great Wiſdom doth ſweet Peace reſtore,</l>
+               <l>And call back Plenty baniſhed before.</l>
+               <l>Inſtead of Battels, Banquets may abound,</l>
+               <l>Inſtead of Trumpets, Harp and Viol ſound,</l>
+               <l>Inſtead of mournfull Cryes, ſoft Muſick may</l>
+               <l>Charm liſt'ning Ears, and drive ſad Care away.</l>
+               <l>Tyrants have dreadfull Deſolations made,</l>
+               <l>While they their Neighbours by ſtrong force invade;</l>
+               <l>All Law and Civil Juſtice, treading down,</l>
+               <l>But You have gotten a Reſplendent Crown</l>
+               <l>By doing Good, and acts of Grace Divine,</l>
+               <l>Which make you like the Sun it ſelf to ſhine.</l>
+               <l>
+                  <hi>WILLIAM</hi> the Firſt by Arms his Throne did gain,</l>
+               <l>But You the Third, as <hi>King</hi> of Hearts ſhall <hi>Reign:</hi>
+               </l>
+               <l>He by the Dint of Sword his Right did prove,</l>
+               <l>You Conquer by the Potent Charmes of Love.</l>
+               <l>Sworn Enemies of Piety and Peace,</l>
+               <l>They needs muſt be whoſe Heads can never ceaſe</l>
+               <l>To hatch black Treaſon, and his Death conſpire,</l>
+               <l>Whoſe Worth none can Expreſs, all muſt Admire.</l>
+               <l>
+                  <hi>Atlas,</hi> as learned Poets uſ'd to fain,</l>
+               <l>Did the whole <hi>Weight</hi> of Heavens Frame ſuſtain,</l>
+               <l>Thus as a Golden <hi>Pillar</hi> You now ſtand</l>
+               <l>Bearing up <hi>all</hi> our Hopes throughout the Land:</l>
+               <l>If <hi>Helliſh Malice</hi> ſhould procure your Fall,</l>
+               <l>'Twoud ſoon make way for <hi>Englands Funeral.</hi>
+               </l>
+               <l>The Skie plow'd up ſhall yield large Crops of Corn,</l>
+               <l>And gliſtering Stars this dunghil Earth adorn:</l>
+               <l>
+                  <hi>Proteus</hi> his ſcalely Flocks ſhall all reſort</l>
+               <l>To Flowery Meadows, there to play and ſport.</l>
+               <l>Moiſt Streams of Water ſhall to Fire turn,</l>
+               <l>And the ſalt Sea like <hi>Aetna</hi>'s Furnace burn.</l>
+               <l>All Nature's Statutes ſhall be changed quite,</l>
+               <l>The Night ſhall turn to Day, and Day to Night,</l>
+               <l>Sooner than your Renowned Works ſhall be</l>
+               <l>Loſt or Forgotten by Poſterity.</l>
+               <l>Your Royal Name ſhall make our Annals ſwell,</l>
+               <l>And in our thankful Minds for ever dwell.</l>
+               <l>Let then the King of Heaven on you pour</l>
+               <l>The choiceſt Bleſſings in a Fruitful Shower,</l>
+               <l>That Children yet unborn may Celebrate</l>
+               <l>The Day when firſt you wore the Crown in State:</l>
+               <l>Let all Succeſs and Happineſs attend</l>
+               <l>Your Peaceful Reign, and Proſper't to</l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> in <hi>Cheap-ſide,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
